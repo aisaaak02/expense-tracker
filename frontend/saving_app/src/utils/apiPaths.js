@@ -1,6 +1,6 @@
 import { FaDownLeftAndUpRightToCenter } from "react-icons/fa6";
 
-export const BASE_URL = 'http://localhost:8000';
+export const BASE_URL = 'https://ex-back-n7fp.onrender.com/';
 
 // utils/apiPath.js
 
